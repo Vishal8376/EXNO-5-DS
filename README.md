@@ -18,7 +18,17 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
-
+![alt text](<Screenshot 2025-04-16 190823.png>) 
+![alt text](<Screenshot 2025-04-16 190833.png>) 
+![alt text](<Screenshot 2025-04-16 190841.png>) 
+![alt text](<Screenshot 2025-04-16 190852.png>) 
+![alt text](<Screenshot 2025-04-16 190900.png>) 
+![alt text](<Screenshot 2025-04-16 190909.png>) 
+![alt text](<Screenshot 2025-04-16 190917.png>) 
+![alt text](<Screenshot 2025-04-16 191426.png>) 
+![alt text](<Screenshot 2025-04-16 191435.png>) 
+![alt text](<Screenshot 2025-04-16 191451.png>) 
+![alt text](<Screenshot 2025-04-16 191506.png>) 
+![alt text](<Screenshot 2025-04-16 191513.png>)
 # Result:
  Include your result here
